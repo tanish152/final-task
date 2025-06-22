@@ -11,24 +11,24 @@
 ![Plotting](TestingPlottingData.png)
 ### Testing Plotting Our Moving Average 100
 #### Notice how 'NaN appears for the first 100 rows, this is because we used a 100 day MA
-![Moving Average 100](Outputs/TestingMovingAvg.png)
+![Moving Average 100](TestingMovingAvg.png)
 ### Testing Plotting Our Moving Average's
 #### Red is our 100MA and Green is our 200MA
-![Moving Average's](Outputs/TestingPlottingMAs.png)
+![Moving Average's](TestingPlottingMAs.png)
 ### Splitting our Data 70/30, 70 for training 30 for testing
-![Splitting our Data](Outputs/SplittingOurData.png)
+![Splitting our Data](SplittingOurData.png)
 ### Summary of our Machine Learning Model
-![ML Model](Outputs/SummaryOfMLModel.png)
+![ML Model](SummaryOfMLModel.png)
 ### Training our ML model Epochs
-![Training](Outputs/TrainingModel.png)
+![Training](TrainingModel.png)
 ### Predicting our values and plotting them
-![Prediction](Outputs/PlottingPredictedPrice.png)
+![Prediction](PlottingPredictedPrice.png)
 ### Demo for our Web app, showcasing the user input data display along with the data and time chart
-![Demo1](Outputs/WebApp1.png)
+![Demo1](WebApp1.png)
 ### Demo for our Web app, showcasing the 100MA and 200MA
-![Demo2](Outputs/WebApp2.png)
+![Demo2](WebApp2.png)
 ### Demo for our Web app, showcasing the future predictions
-![Demo3](Outputs/WebApp3.png)
+![Demo3](WebApp3.png)
 
 
 
