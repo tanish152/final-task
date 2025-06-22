@@ -2,7 +2,7 @@
 
 # Step By Step Terminal Testing Output
 ### Final Web Application Demo
-![Final Demo](Outputs/Demo.gif)
+![Final Demo](Demo.gif)
 
 
 ### Testing Retrieval Of Data
